@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.exe
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.dll
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\bin\Debug\net7.0\6-print_string.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.dll
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\refint\6-print_string.dll
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\6-print_string.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-hello_world\6-print_string\obj\Debug\net7.0\ref\6-print_string.dll
