@@ -1,20 +1,14 @@
 ﻿using System;
 
-class Program 
-{
-    static void Main(string[] args)
-    {
-        for(int number = 0 ; number < 100; number++)
-        {
-            Console.Write(number.ToString("00"));
-            if (number != 99)
-            {
-                Console.Write(", ");
+class Program{
+    static void Main(String[] args){
+         for(int i = 0; i < 100 ; i++){
+            
+            if(i == 99){
+                Console.Write($"{i}");
+            }else{
+                Console.Write($"{i:D2}, ");
             }
-            else
-            {
-                Console.WriteLine();
-            }
+         }
         }
     }
-}
