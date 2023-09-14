@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\refint\13-best_score.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\ref\13-best_score.dll

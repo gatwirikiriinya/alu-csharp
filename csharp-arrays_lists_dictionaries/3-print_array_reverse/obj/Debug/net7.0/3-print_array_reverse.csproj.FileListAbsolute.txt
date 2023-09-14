@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\net7.0\3-print_array_reverse.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\refint\3-print_array_reverse.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\3-print_array_reverse.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\net7.0\ref\3-print_array_reverse.dll

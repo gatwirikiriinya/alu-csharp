@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\net7.0\4-print_list.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\net7.0\4-print_list.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\net7.0\4-print_list.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\net7.0\4-print_list.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\bin\Debug\net7.0\4-print_list.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\refint\4-print_list.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\4-print_list.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\4-print_list\obj\Debug\net7.0\ref\4-print_list.dll

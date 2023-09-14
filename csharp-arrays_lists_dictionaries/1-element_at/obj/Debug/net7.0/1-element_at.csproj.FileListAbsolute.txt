@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net7.0\1-element_at.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\refint\1-element_at.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\1-element_at.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net7.0\ref\1-element_at.dll

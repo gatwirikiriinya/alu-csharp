@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\refint\14-rectangular_array.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\ref\14-rectangular_array.dll

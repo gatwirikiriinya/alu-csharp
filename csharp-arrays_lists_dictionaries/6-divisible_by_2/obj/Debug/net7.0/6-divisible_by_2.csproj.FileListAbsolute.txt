@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\net7.0\6-divisible_by_2.exe
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\net7.0\6-divisible_by_2.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\net7.0\6-divisible_by_2.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\net7.0\6-divisible_by_2.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\net7.0\6-divisible_by_2.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\refint\6-divisible_by_2.dll
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\6-divisible_by_2.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\net7.0\ref\6-divisible_by_2.dll
