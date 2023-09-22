@@ -1,32 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class LList
+public class LList
 {
-    // Main - entry point
-    static void Main(string[] args)
+    public static int Pop(LinkedList<int> myLList)
     {
-        LinkedList<int> myLList = new LinkedList<int>();
-
-        myLList.AddLast(11);
-        myLList.AddLast(3);
-        myLList.AddLast(-9);
-        myLList.AddLast(47);
-        myLList.AddLast(0);
-        myLList.AddLast(-9);
-
-        Console.WriteLine(LList.Pop(myLList));
-    }
-
-    public static int Pop(LinkedList<int> myList)
-    {
-        if (myList.Count == 0)
+        // Check if the LinkedList is empty
+        if (myLList.First == null)
         {
+            // Return 0 if the list is empty
             return 0;
         }
-        else
-        {
-            return myList.First.Value;
-        }
+
+        // Get the value of the head node
+        int headValue = myLList.First.Value;
+
+        // Remove the head node from the LinkedList
+        myLList.RemoveFirst();
+
+        // Return the value of the removed head node
+        return headValue;
     }
 }
