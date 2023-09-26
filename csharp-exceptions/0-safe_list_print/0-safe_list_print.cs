@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections
 
-public class List
+class List
 {
     public static int SafePrint(List<int> myList, int n)
     {
@@ -9,15 +8,16 @@ public class List
 
         try
         {
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(myList[i]);
                 printedCount++;
             }
         }
-        catch (ArgumentOutOfRangeException)
+        catch (System.Exception)
         {
-            Console.WriteLine("Warning: Attempted to print more elements than available");
+            return printedCount;
+
         }
 
         return printedCount;
