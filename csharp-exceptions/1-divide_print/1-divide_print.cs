@@ -7,7 +7,7 @@ public class Int
         int result = 0;
         try
         {
-            result = a/b;
+            result = a / b;
         }
         catch(System.Exception)
         {
@@ -15,7 +15,7 @@ public class Int
         }
         finally
         {
-            Console.WriteLine($"{a}/{b} = {result}");
+            Console.WriteLine($"{a} / {b} = {result}");
             
         }
     }
