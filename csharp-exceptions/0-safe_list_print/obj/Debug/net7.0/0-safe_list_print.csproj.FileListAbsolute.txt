@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net7.0\0-safe_list_print.exe
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net7.0\0-safe_list_print.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net7.0\0-safe_list_print.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net7.0\0-safe_list_print.dll
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net7.0\0-safe_list_print.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.dll
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\refint\0-safe_list_print.dll
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\0-safe_list_print.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net7.0\ref\0-safe_list_print.dll
