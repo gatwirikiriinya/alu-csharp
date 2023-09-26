@@ -5,7 +5,7 @@ public class List
 {
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
-        List<int> resultList = new List<int>();
+        List<int> result = new List<int>();
 
         int divided = 0;
 
@@ -14,7 +14,7 @@ public class List
             try
             {
                 divided = list1[i] / list2[i];
-                resultlist.Add(divided);
+                result.Add(divided);
             }
             catch (ArgumentOutOfRangeException)
             {
@@ -23,10 +23,10 @@ public class List
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Cannot divide by zero");
-                resultlist.Add(0);
+                result.Add(0);
             }
         }
 
-        return resultlist;
+        return result;
     }
 }
