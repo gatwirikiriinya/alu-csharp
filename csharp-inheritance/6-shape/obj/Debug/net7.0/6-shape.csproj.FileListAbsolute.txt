@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.exe
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\refint\6-shape.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\6-shape\obj\Debug\net7.0\ref\6-shape.dll

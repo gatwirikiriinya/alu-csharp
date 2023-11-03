@@ -1,0 +1,14 @@
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.AssemblyInfo.cs
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.exe
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.deps.json
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.runtimeconfig.json
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\refint\0-is.dll
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.pdb
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.genruntimeconfig.cache
+C:\Users\felki\arvr\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\ref\0-is.dll
