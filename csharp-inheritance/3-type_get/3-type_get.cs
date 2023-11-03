@@ -7,22 +7,16 @@ class Obj
     {
         Type objType = myObj.GetType();
 
-        Console.WriteLine($"Properties and methods of {objType.Name}:");
-
-        // Get properties and methods using reflection
-        PropertyInfo[] properties = objType.GetProperties();
-        MethodInfo[] methods = objType.GetMethods();
-
-        // Print property names
-        foreach (var property in properties)
+        Console.WriteLine($"{objType.Name} Properties:");
+        foreach (PropertyInfo property in objType.GetProperties())
         {
-            Console.WriteLine($"Property: {property.Name}");
+            Console.WriteLine(property.Name);
         }
 
-        // Print method names
-        foreach (var method in methods)
+        Console.WriteLine($"{objType.Name} Methods:");
+        foreach (MethodInfo method in objType.GetMethods())
         {
-            Console.WriteLine($"Method: {method.Name}");
+            Console.WriteLine(method.Name);
         }
     }
 }
