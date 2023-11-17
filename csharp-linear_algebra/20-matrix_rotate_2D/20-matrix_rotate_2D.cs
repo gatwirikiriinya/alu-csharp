@@ -1,49 +1,61 @@
 ﻿using System;
 
-
-class Program{
-    
-    public static void Main(string[] arg){
-        
-        double[,] TestMatrix = { { 1, 2}, {3, 4}};
-
-        double[,] resultMatrix = MatrixMath.Rotate2D(TestMatrix, 1);
-        
-        Console.WriteLine($"{resultMatrix[0,0]}  --  {resultMatrix[0,1]}\n{resultMatrix[1,0]}  --  {resultMatrix[1,1]}");
-
-    }
-}
-class MatrixMath{
-    public static double[,] Rotate2D(double[,] matrix, double angle){
-        double[,] rotationMatrix = {
-            { Math.Cos(angle), Math.Sin(angle)},
-            { -(Math.Sin(angle)), Math.Cos(angle)}
-        };
-
+class MatrixMath
+{
+    public static double[,] Shear2D(double[,] matrix, char direction, double factor)
+    {
         int rows = matrix.GetLength(0);
-        int cols = matrix.GetLength(1);
+        int columns = matrix.GetLength(1);
 
-        if(rows == cols && rows == 2 && cols == 2){
-         
-         double[,] result = new double[rows,rows];
-
-         for (int col = 0; col < cols; col++)
-            {
-                for (int row = 0; row < rows; row++)
-                {
-                    result[row, col] = 0;
-                    for (int k = 0; k < rows; k++)
-                    {
-                        result[row, col] += Math.Round( rotationMatrix[row, k] * matrix[k, col] , 2);
-                    }
-                }
-            }
-
-            return result;
+        // Check if the matrix is not 2x2
+        if (rows != 2 || columns != 2)
+        {
+            return new double[,] { { -1 } }; // Return -1 for invalid size
         }
 
-        return new double[,]{{-1}};
-       
+        // Check if the shear factor is applied to either the X or Y direction but not both
+        if (direction != 'x' && direction != 'y')
+        {
+            return new double[,] { { -1 } }; // Return -1 for invalid axis
+        }
+
+        double[,] result = new double[2, 2];
+
+        if (direction == 'x')
+        {
+            // Shear in the X direction
+            result[0, 0] = matrix[0, 0] + factor * matrix[1, 0];
+            result[0, 1] = matrix[0, 1] + factor * matrix[1, 1];
+            result[1, 0] = matrix[1, 0];
+            result[1, 1] = matrix[1, 1];
+        }
+        else if (direction == 'y')
+        {
+            // Shear in the Y direction
+            result[0, 0] = matrix[0, 0];
+            result[0, 1] = matrix[0, 1];
+            result[1, 0] = matrix[1, 0] + factor * matrix[0, 0];
+            result[1, 1] = matrix[1, 1] + factor * matrix[0, 1];
+        }
+
+        return result;
     }
+
   
+    // Helper method to print a matrix
+    private static void PrintMatrix(double[,] matrix)
+    {
+        int rows = matrix.GetLength(0);
+        int columns = matrix.GetLength(1);
+
+        for (int i = 0; i < rows; i++)
+        {
+            for (int j = 0; j < columns; j++)
+            {
+                Console.Write(matrix[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+        Console.WriteLine();
+    }
 }

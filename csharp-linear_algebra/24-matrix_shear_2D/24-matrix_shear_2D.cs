@@ -1,61 +1,79 @@
 ﻿using System;
 
-class MatrixMath
+public class MatrixTransformation
 {
-    public static double[,] Shear2D(double[,] matrix, char direction, double factor)
+    public static double[,] ShearX(double[,] matrix, double shx)
     {
         int rows = matrix.GetLength(0);
-        int columns = matrix.GetLength(1);
+        int cols = matrix.GetLength(1);
+        double[,] result = new double[rows, cols];
 
-        // Check if the matrix is not 2x2
-        if (rows != 2 || columns != 2)
+        for (int i = 0; i < rows; i++)
         {
-            return new double[,] { { -1 } }; // Return -1 for invalid size
-        }
-
-        // Check if the shear factor is applied to either the X or Y direction but not both
-        if (direction != 'x' && direction != 'y')
-        {
-            return new double[,] { { -1 } }; // Return -1 for invalid axis
-        }
-
-        double[,] result = new double[2, 2];
-
-        if (direction == 'x')
-        {
-            // Shear in the X direction
-            result[0, 0] = matrix[0, 0] + factor * matrix[1, 0];
-            result[0, 1] = matrix[0, 1] + factor * matrix[1, 1];
-            result[1, 0] = matrix[1, 0];
-            result[1, 1] = matrix[1, 1];
-        }
-        else if (direction == 'y')
-        {
-            // Shear in the Y direction
-            result[0, 0] = matrix[0, 0];
-            result[0, 1] = matrix[0, 1];
-            result[1, 0] = matrix[1, 0] + factor * matrix[0, 0];
-            result[1, 1] = matrix[1, 1] + factor * matrix[0, 1];
+            for (int j = 0; j < cols; j++)
+            {
+                double x = matrix[i, j];
+                double y = i; 
+                result[i, j] = x + shx * y;
+            }
         }
 
         return result;
     }
 
-   
-    // Helper method to print a matrix
-    private static void PrintMatrix(double[,] matrix)
+    public static double[,] ShearY(double[,] matrix, double shy)
     {
         int rows = matrix.GetLength(0);
-        int columns = matrix.GetLength(1);
+        int cols = matrix.GetLength(1);
+        double[,] result = new double[rows, cols];
 
         for (int i = 0; i < rows; i++)
         {
-            for (int j = 0; j < columns; j++)
+            for (int j = 0; j < cols; j++)
             {
-                Console.Write(matrix[i, j] + " ");
+                double x = j; 
+                double y = matrix[i, j];
+                result[i, j] = shy * x + y;
+            }
+        }
+
+        return result;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        double[,] matrix = {
+            { 1, 2 },
+            { 3, 4 }
+        };
+
+        double shearFactorX = 2; // Shear X-axis
+        double shearFactorY = 2; // Shear Y-axis
+
+        double[,] shearedMatrixX = MatrixTransformation.ShearX(matrix, shearFactorX);
+        double[,] shearedMatrixY = MatrixTransformation.ShearY(matrix, shearFactorY);
+
+        Console.WriteLine("Sheared Matrix along X:");
+        for (int i = 0; i < shearedMatrixX.GetLength(0); i++)
+        {
+            for (int j = 0; j < shearedMatrixX.GetLength(1); j++)
+            {
+                Console.Write($"{shearedMatrixX[i, j]} ");
             }
             Console.WriteLine();
         }
-        Console.WriteLine();
+
+        Console.WriteLine("Sheared Matrix along Y:");
+        for (int i = 0; i < shearedMatrixY.GetLength(0); i++)
+        {
+            for (int j = 0; j < shearedMatrixY.GetLength(1); j++)
+            {
+                Console.Write($"{shearedMatrixY[i, j]} ");
+            }
+            Console.WriteLine();
+        }
     }
 }
