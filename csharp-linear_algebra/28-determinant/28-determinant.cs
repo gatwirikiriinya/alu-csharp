@@ -1,64 +1,41 @@
 ﻿using System;
+using System.Collections;
 
-class MatrixMath
-{
-    public static double Determinant(double[,] matrix)
-    {
-        int rows = matrix.GetLength(0);
-        int columns = matrix.GetLength(1);
 
-        // Check if the matrix is not 2D or 3D
-        if (rows != 2 && rows != 3 && columns != 2 && columns != 3)
-        {
-            return -1; // Return -1 for matrices that are not 2D or 3D
-        }
-
-        // Check if the matrix is square (number of rows equals number of columns)
-        if (rows != columns)
-        {
-            return -1; // Return -1 for non-square matrices
-        }
-
-        // Calculate determinant based on the dimension of the matrix
-        if (rows == 2)
-        {
-            return matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
-        }
-        else if (rows == 3)
-        {
-            return matrix[0, 0] * (matrix[1, 1] * matrix[2, 2] - matrix[1, 2] * matrix[2, 1]) -
-                   matrix[0, 1] * (matrix[1, 0] * matrix[2, 2] - matrix[1, 2] * matrix[2, 0]) +
-                   matrix[0, 2] * (matrix[1, 0] * matrix[2, 1] - matrix[1, 1] * matrix[2, 0]);
-        }
-
-        return -1; // Default case (should not be reached)
+class Program{
+    public static void Main(string[] arg){
+       //  double[,] testMatrix = {{5, 0, 02}, {1,-8,1}, {3, 2, 0}};
+       //  double[,] testMatrix = {{1.2, -0.42}, {0.67, 2}};
+       double[,] testMatrix = {{11, 9, 7}, {2, 13, 1}, {4, 0, 17}};
+      // double[,] testMatrix = {{1.2, 0.35, -0.42}, {0, -8, 6.21}, {3.89, -4, 0.67}};
+        Console.WriteLine(" " + MatrixMath.Determinant(testMatrix));
     }
+}
 
-    // Example usage
-    public static void Main()
-    {
-        double[,] matrix2D = {
-            {1, 2},
-            {3, 4}
-        };
 
-        double[,] matrix3D = {
-            {1, 2, 3},
-            {4, 5, 6},
-            {7, 8, 9}
-        };
 
-        double[,] invalidMatrix = {
-            {1, 2, 3},
-            {4, 5, 6}
-        };
+class MatrixMath{
 
-        double determinant1 = Determinant(matrix2D);
-        double determinant2 = Determinant(matrix3D);
-        double determinant3 = Determinant(invalidMatrix);
+    public static double Determinant(double[,] matrix){
 
-        Console.WriteLine("Determinant of matrix2D: " + determinant1);
-        Console.WriteLine("Determinant of matrix3D: " + determinant2);
-        Console.WriteLine("Determinant of invalidMatrix: " + determinant3);
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+
+        if((rows == 3 && cols == 3 ) || (rows == 2 && cols == 2)){
+
+            if(rows == 2){
+                return Math.Round(((matrix[0,0] * matrix[1,1]) -  (matrix[0,1] * matrix[1,0])),2);
+            }
+
+            if(rows == 3){
+                double x = matrix[0,0] * ((matrix[1,1] * matrix[2,2]) - (matrix[2,1] * matrix[1,2]));
+                double y = matrix[0,1] * ((matrix[1,0] * matrix[2,2]) - (matrix[2,0] * matrix[1,2]));
+                double z = matrix[0,2] * ((matrix[1,0] * matrix[2,1]) - (matrix[2,0] * matrix[1,1]));
+
+                return Math.Round((x - y - z),2);
+            }
+        }
+
+        return -1;
     }
 }
