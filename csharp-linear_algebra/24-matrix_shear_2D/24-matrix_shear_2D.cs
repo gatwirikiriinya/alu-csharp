@@ -2,6 +2,7 @@
 
 public class MatrixTransformation
 {
+    // Applies a shear along the X-axis to a 2D matrix of points.
     public static double[,] ShearX(double[,] matrix, double shx)
     {
         int rows = matrix.GetLength(0);
@@ -13,7 +14,8 @@ public class MatrixTransformation
             for (int j = 0; j < cols; j++)
             {
                 double x = matrix[i, j];
-                double y = i; 
+                double y = i; // Assuming each row corresponds to a Y coordinate
+                // Applying shear transformation
                 result[i, j] = x + shx * y;
             }
         }
@@ -31,7 +33,7 @@ public class MatrixTransformation
         {
             for (int j = 0; j < cols; j++)
             {
-                double x = j; 
+                double x = j; // Assuming each column corresponds to an X coordinate
                 double y = matrix[i, j];
                 result[i, j] = shy * x + y;
             }
@@ -50,8 +52,8 @@ class Program
             { 3, 4 }
         };
 
-        double shearFactorX = 2; // Shear X-axis
-        double shearFactorY = 2; // Shear Y-axis
+        double shearFactorX = 2; // Shear along X-axis
+        double shearFactorY = 2; // Shear along Y-axis
 
         double[,] shearedMatrixX = MatrixTransformation.ShearX(matrix, shearFactorX);
         double[,] shearedMatrixY = MatrixTransformation.ShearY(matrix, shearFactorY);
