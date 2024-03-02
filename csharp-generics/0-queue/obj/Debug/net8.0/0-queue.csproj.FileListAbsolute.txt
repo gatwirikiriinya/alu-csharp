@@ -1,0 +1,15 @@
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.AssemblyInfo.cs
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.sourcelink.json
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\bin\Debug\net8.0\0-queue.exe
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\bin\Debug\net8.0\0-queue.deps.json
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\bin\Debug\net8.0\0-queue.runtimeconfig.json
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\bin\Debug\net8.0\0-queue.dll
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\bin\Debug\net8.0\0-queue.pdb
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.dll
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\refint\0-queue.dll
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.pdb
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\0-queue.genruntimeconfig.cache
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-generics\0-queue\obj\Debug\net8.0\ref\0-queue.dll
