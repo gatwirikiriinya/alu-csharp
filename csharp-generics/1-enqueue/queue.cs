@@ -1,38 +1,58 @@
-using System;
+﻿using System;
 
-class Node<T>
-{
-    public T value;
-    public Node<T> next;
 
-    public Node(T value)
-    {
-        this.value = value;
-        this.next = null;
+
+public class Queue<T>  {
+
+
+
+    public class Node{
+
+        public T? Value;
+        public Node? Next;
+
+        public Node(T value){
+            Value = value;
+            Next = null;
+        }
     }
-}
 
-class Queue<T>
-{
-    private Node<T> head;
-    private Node<T> tail;
-    private int count;
+    protected Node? head;
+    protected Node? tail;
+    int count;
 
-    public void Enqueue(T value)
+    public Queue()
     {
-        Node<T> newNode = new Node<T>(value);
+        head = null;
+        tail = null;
+        count = 0;
+    }
 
-        if (head == null)
+
+    public void Enqueue(T? value){
+
+        Node newNode = new Node(value!);
+    
+        if(head == null){
             head = newNode;
-        else
-            tail.next = newNode;
-
-        tail = newNode;
-        count++;
+            tail = newNode;
+        }else{
+            tail!.Next = newNode;
+            tail = newNode;
+        }
+         count++;
     }
 
-    public int Count()
-    {
+    
+    
+
+
+    public Type CheckType(){
+        return typeof(T);
+    }
+
+    public int Count(){
         return count;
     }
+    
 }
