@@ -8,7 +8,7 @@ public class CurrentHPArgs : EventArgs{
     /// <summary>
     /// Current HP value.
     /// </summary>
-    public float currentHp;
+    public float currentHp { get; }
 
     /// <summary>
     /// Initializes a new instance of the <see cref="CurrentHPArgs"/> class with specified current HP.
