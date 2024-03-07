@@ -1,0 +1,5 @@
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.AssemblyInfoInputs.cache
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.AssemblyInfo.cs
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.csproj.CoreCompileInputs.cache
+C:\Users\felki\arvr\advancedc#\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.sourcelink.json

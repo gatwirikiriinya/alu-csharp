@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzohqkOvB9+W0P8hqnBQ7Q5E3Ye6GsRu5sAMjEJq+Vp06rZ7rZSNzot8VERTE0YwLa9N1fMSLqYEMyaRambzGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-delegates_events\\0-universal_health\\0-universal_health.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
