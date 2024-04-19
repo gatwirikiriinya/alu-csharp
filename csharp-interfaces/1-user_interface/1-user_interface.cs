@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Reflection;
 
 public interface IInteractive
 {
@@ -7,22 +9,43 @@ public interface IInteractive
 
 public interface IBreakable
 {
-    int durability { get; set; }
+    int Durability { get; set; }
     void Break();
 }
 
 public interface ICollectable
 {
-    bool isCollected { get; set; }
+    bool IsCollected { get; set; }
     void Collect();
 }
 
 public class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-    public int durability { get; set; }
-    public bool isCollected { get; set; }
+    public int Durability { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    public bool IsCollected { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-    public void Interact() { }
-    public void Break() { }
-    public void Collect() { }
+    public void Interact()
+    {
+        // Implement interaction behavior here
+    }
+
+    public void Break()
+    {
+        // Implement break behavior here
+    }
+
+    public void Collect()
+    {
+        // Implement collect behavior here
+    }
+}
+
+public abstract class Base
+{
+    public string? name { get; set; }
+
+    public override string ToString()
+    {
+        return $"{name} is a {GetType()}";
+    }
 }

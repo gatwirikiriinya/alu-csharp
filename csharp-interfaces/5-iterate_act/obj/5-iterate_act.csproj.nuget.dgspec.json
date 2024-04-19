@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj": {}
+    "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj": {
+    "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
+        "projectUniqueName": "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
         "projectName": "5-iterate_act",
-        "projectPath": "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
+        "projectPath": "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
         "packagesPath": "C:\\Users\\felki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\obj\\",
+        "outputPath": "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -21,7 +21,9 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
-        "originalTargetFrameworks": ["net7.0"],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
@@ -34,7 +36,9 @@
           }
         },
         "warningProperties": {
-          "warnAsError": ["NU1605"]
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
@@ -51,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

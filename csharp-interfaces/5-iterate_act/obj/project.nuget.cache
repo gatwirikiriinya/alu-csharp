@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KmI29+c/dPlXpfYNwCwxwY/2ewJUTIPR4CcOJhxMtMghQ9veFE47sSrpTaqqe5gar3G9X8rWRZxes2oZ5TpGUQ==",
+  "dgSpecHash": "iHly34O5ZEcFpOwwHWp0IB98/qfdemI4h9yVLV+Tol+l8QjREkIhxeTDblXvx5G6U+LST1b6H1oGoG3eSm8nMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felki\\arvr\\advancedc#\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\felki\\arvr\\alu-csharp\\csharp-interfaces\\5-iterate_act\\5-iterate_act.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\felki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
